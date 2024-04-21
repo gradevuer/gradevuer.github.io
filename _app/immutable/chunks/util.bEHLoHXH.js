@@ -1,0 +1,1 @@
+const n=typeof window<"u"?window:typeof globalThis<"u"?globalThis:global;function a(e){switch(e){case"A":return 4;case"B":return 3;case"C":return 2;case"D":return 1;case"E":return 0;default:return-1}}export{n as g,a as m};
