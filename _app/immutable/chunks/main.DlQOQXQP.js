@@ -1,1 +1,1 @@
-const r="https://worker-rust.zillorz.workers.dev";export{r as W};
+const r="https://axum-svue.fly.dev";export{r as W};
